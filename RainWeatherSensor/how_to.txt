@@ -1,0 +1,1 @@
+1. VCC = 3.3V for digital pin and 5V for analog pin
